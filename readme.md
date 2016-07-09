@@ -2,6 +2,7 @@
 
 Curated List of Web Applications.
 
+
 ###### Contribution
 
 To add a Web App:
@@ -10,6 +11,20 @@ To add a Web App:
   - Line format: ` - [Web App Name](https://webapp.example.com/) - Description.`
   - Add the line at the end of a section
   - If it doesn't fit any section then open a new issue so we can discuss creating a new section
+
+
+###### Table of Contents
+
+ - [Chat / Video Calls](#chat--video-calls)
+ - [Video Editors](#video-editors)
+ - [RSS reader](#rss-reader)
+ - [Photo/Image Editors](#photoimage-editors)
+ - [Text Editors](#text-editors)
+ - [PDF editor](#pdf-editor)
+ - [LaTeX editor](#latex-editor)
+ - [Weather](#weather)
+ - [Map](#map)
+ - [Miscellaneous](#miscellaneous)
 
 
 
