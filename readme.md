@@ -36,6 +36,7 @@ To add a Web App:
  - [Skype Online](https://web.skype.com/) - Only chat and audio for now. Video should be coming.
  - [Circ](https://chrome.google.com/webstore/detail/circ/bebigdkelppomhhjaaianniiifjbgocn) - IRC client.
  - [UberConference](https://www.uberconference.com/) - Conference Calls. No Video.
+ - [Web WeChat](https://web.wechat.com/) - Web based WeChat by Tencent. Requires logging into WeChat on phone and scanning QR code.
 
 <!--- Dissmissed
  - Helm.is - Encrypted Chat by Peter Sunde of the Pirate Bay. Project is abandoned.
