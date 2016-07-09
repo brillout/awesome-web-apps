@@ -13,7 +13,7 @@ To add a Web App:
   - If it doesn't fit any section then open a new issue so we can discuss creating a new section
 
 
-###### Table of Contents
+### Contents
 
  - [Chat / Video Calls](#chat--video-calls)
  - [Video Editors](#video-editors)
