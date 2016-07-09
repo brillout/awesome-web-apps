@@ -52,7 +52,7 @@ To add a Web App:
 
 
 
-### RSS reader
+### RSS Reader
  - [Feedly](http://feedly.com/) - Many Features.
  - [The Old Reader](https://theoldreader.com/) - Simple.
  - [NewsBlur](http://www.newsblur.com/) - Feature rich for a premium account. Not usable with a free account.
@@ -61,7 +61,7 @@ To add a Web App:
 
 ### Photo/Image Editors
 
-###### Image editing
+###### Image Editing
 
  - [Pixlr](https://pixlr.com/) - Many features.
  - [Fotor](http://www.fotor.com/) - Color manipulation.
@@ -71,7 +71,7 @@ To add a Web App:
  - http://photooutcome.com/ - Alternatives seem to be better.
 -->
 
-###### Photo filters
+###### Photo Filters
 
  - [Fotor](http://www.fotor.com/) - Many filters, natural looking filters, adjust intensity.
  - [Photomania](http://photomania.net/editor) - Possibility to apply filters locally and adjust intensity.
@@ -90,7 +90,7 @@ To add a Web App:
 
 
 
-### PDF editor
+### PDF Editor
 
  *I Couldn't find a PDF online editor that allows to edit texts inline. Nor could I find a PDF editor to cut and paste parts.*
 
@@ -102,7 +102,7 @@ To add a Web App:
 
 
 
-### LaTeX editor
+### LaTeX Editor
 
  - [ShareLaTeX](https://www.sharelatex.com/) - Collaborative editing.
  - [Overleaf](https://www.overleaf.com) - Feature Rich.
