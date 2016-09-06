@@ -71,6 +71,9 @@ To add a Web App:
 <!--- Dissmissed
  - http://photooutcome.com/ - Alternatives seem to be better.
 -->
+###### SVG Editing
+
+ - [Method Draw](http://editor.method.ac/) - Many features and seems reliable.
 
 ###### Photo Filters
 
