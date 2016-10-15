@@ -28,7 +28,6 @@ To add a Web App:
 
 
 
-
 ### Chat / Video Calls
  - [Telegram Web](https://web.telegram.org) - End to End encrypted chat. By a Non Profit Organization.
  - [WhatsApp Web](https://web.whatsapp.com/) - End To End encrypted chat. Owned by Facebook. Requires signup with smartphone.
@@ -37,6 +36,7 @@ To add a Web App:
  - [Circ](https://chrome.google.com/webstore/detail/circ/bebigdkelppomhhjaaianniiifjbgocn) - IRC client.
  - [UberConference](https://www.uberconference.com/) - Conference Calls. No Video.
  - [Web WeChat](https://web.wechat.com/) - Web based WeChat by Tencent. Requires logging into WeChat on phone and scanning QR code.
+ - [Riot](https://riot.im/) - Fully open-source web chat & voip
 
 <!--- Dissmissed
  - Helm.is - Encrypted Chat by Peter Sunde of the Pirate Bay. Project is abandoned.
@@ -57,6 +57,7 @@ To add a Web App:
  - [Feedly](http://feedly.com/) - Many Features.
  - [The Old Reader](https://theoldreader.com/) - Simple.
  - [NewsBlur](http://www.newsblur.com/) - Feature rich for a premium account. Not usable with a free account.
+ - [FreshRSS](https://freshrss.org/) - Simple and open-source
 
 
 
