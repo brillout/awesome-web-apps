@@ -74,6 +74,7 @@ To add a Web App:
 ###### SVG
 
  - [Method Draw](http://editor.method.ac/) - [Free] SVG editing. Many features and seems reliable.
+ - [SVG-edit](https://svg-edit.github.io/svgedit/releases/svg-edit-2.8.1/svg-editor.html) - [Free] SVG editing. Reliable, many features.
  - [Vector Magic](http://vectormagic.com/home) - [Free trial] Convert bitmap image (.jpg, .png, etc.) to vector graphic (e.g. .svg). Works surprisingly well. Three conversions for free per account.
 
 ###### Photo Filters
