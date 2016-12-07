@@ -30,13 +30,13 @@ To add a Web App:
 
 
 ### Chat / Video Calls
- - [Telegram Web](https://web.telegram.org) - End to End encrypted chat. By a Non Profit Organization.
- - [WhatsApp Web](https://web.whatsapp.com/) - End To End encrypted chat. Owned by Facebook. Requires signup with smartphone.
+ - [Telegram Web](https://web.telegram.org) - Pro: End to End encrypted chat. Pro: By a Non Profit Organization.
+ - [WhatsApp Web](https://web.whatsapp.com/) - Pro: End To End encrypted chat. Con: Owned by Facebook. Con: Requires signup with smartphone.
  - [Google Hangout](https://hangouts.google.com/) - Web VoIP.
- - [Skype Online](https://web.skype.com/) - Only chat and audio for now. Video should be coming.
+ - [Skype Online](https://web.skype.com/) - Con: Only chat and audio for now: but video should be coming.
  - [Circ](https://chrome.google.com/webstore/detail/circ/bebigdkelppomhhjaaianniiifjbgocn) - IRC client.
- - [UberConference](https://www.uberconference.com/) - Conference Calls. No Video.
- - [Web WeChat](https://web.wechat.com/) - Web based WeChat by Tencent. Requires logging into WeChat on phone and scanning QR code.
+ - [UberConference](https://www.uberconference.com/) - Conference Calls. Pro: Reliable. Con: No video.
+ - [Web WeChat](https://web.wechat.com/) - Web based WeChat by Tencent. Con: Requires logging into WeChat on phone and scanning QR code.
 
 <!--- Dissmissed
  - Helm.is - Encrypted Chat by Peter Sunde of the Pirate Bay. Project is abandoned.
@@ -46,17 +46,19 @@ To add a Web App:
 
 ### Video Editors
 
+<!--
 *I've tried many video editing web apps but none were reliable. The only exception being the YouTube Video Editor.*
+-->
 
- - [YouTube Editor](http://www.youtube.com/editor) - Clip and merge videos. Lacking features but reliable.
+ - [YouTube Editor](http://www.youtube.com/editor) - Clip and merge videos. Pro: Very few features. Pro: reliable: isn't buggy and doesn't crash.
  - [Clichamp](https://clipchamp.com/) - Convert and compress videos.
 
 
 
 ### RSS Reader
- - [Feedly](http://feedly.com/) - Many Features.
- - [The Old Reader](https://theoldreader.com/) - Simple.
- - [NewsBlur](http://www.newsblur.com/) - Feature rich for a premium account. Not usable with a free account.
+ - [Feedly](http://feedly.com/) - Pro: Many Features.
+ - [The Old Reader](https://theoldreader.com/) - Pro: Simple.
+ - [NewsBlur](http://www.newsblur.com/) - Pro: Feature rich for a premium account. Con: useless with a free account.
 
 
 
@@ -64,24 +66,24 @@ To add a Web App:
 
 ###### Image Editing
 
- - [Pixlr](https://pixlr.com/) - Many features.
+ - [Pixlr](https://pixlr.com/) - Pro: Many features.
  - [Fotor](http://www.fotor.com/) - Color manipulation.
- - [Aviary](https://www.aviary.com/) - Few features but reliable.
+ - [Aviary](https://www.aviary.com/) - Con: Few features. Pro: reliable: isn't buggy and doesn't crash.
 
 <!--- Dissmissed
  - http://photooutcome.com/ - Alternatives seem to be better.
 -->
 ###### SVG
 
- - [Method Draw](http://editor.method.ac/) - [Free] SVG editing. Many features and seems reliable.
+ - [Method Draw](http://editor.method.ac/) - Pro: Free. SVG editing. Pro: Many features. Pro: reliable: isn't buggy and doesn't crash.
  - [SVG-edit](https://svg-edit.github.io/svgedit/releases/svg-edit-2.8.1/svg-editor.html) - [Free] SVG editing. Reliable, many features.
- - [Vector Magic](http://vectormagic.com/home) - [Free trial] Convert bitmap image (.jpg, .png, etc.) to vector graphic (e.g. .svg). Works surprisingly well. Three conversions for free per account.
+ - [Vector Magic](http://vectormagic.com/home) - Convert bitmap image (.jpg, .png, etc.) to vector graphic (e.g. .svg). Con: only three free conversions per account. Pro: works surprisingly very well.
 
 ###### Photo Filters
 
- - [Fotor](http://www.fotor.com/) - Many filters, natural looking filters, adjust intensity.
- - [Photomania](http://photomania.net/editor) - Possibility to apply filters locally and adjust intensity.
- - [Pixlr-o-matic](https://pixlr.com/o-matic/) - Good filters but no intensity adjustments.
+ - [Fotor](http://www.fotor.com/) - Pro: Many filters. Pro: Has natural looking filters. Pro: Intensity adjustements: it can be set how strong a filter should be applied.
+ - [Photomania](http://photomania.net/editor) - Pro: Intensity is adjustable: it can be set how strong a filter should be applied.
+ - [Pixlr-o-matic](https://pixlr.com/o-matic/) - Pro: Has good filters. Con: No intensity adjustments: a filter is either fully applied or not at all.
 
 <!--- Dissmissed
  - rollip.com - Alternatives seem to be better.
@@ -91,10 +93,16 @@ To add a Web App:
 
 ### Text Editors
 
- - [Writebox](https://write-box.appspot.com/) - Simple. Line/word/chars count, text saved while typing, save/open several texts.
+ - [Writebox](https://write-box.appspot.com/) - Pro: Line/word/chars count. Pro: text saved while typing. Pro: open and edit several texts.
  - [WriterDuert](https://www.writerduet.com) - Collaborative Text Editor.
 
 
+
+###### Merge images into a single PDF
+ - [online2pdf](https://online2pdf.com/) Pro: Free. Pro: Supports many document types: Word, Excel, Powerpoint, Publisher, OpenOffice, Images, XPS, PDF, etc. Pro: Resizes documents to cover whole PDF page. Pro: Extensive layout options: outer margin, number of documents in a single PDF page, etc. Pro: Supports common page formats like A4, letter etc.  Pro: Secure: Encrypted and secure https connection to online2pdf servers which means that only online2pdf and the user know the content of the files. Pro: compressess documents.
+ - [jpg2pdf](http://jpg2pdf.com/) - Pro: Free. Con: Keeps image layout: PDF page format can vary. Con: no options at all. Pro: compressess documents.
+ - [convert-jpg-to-pdf](http://www.convert-jpg-to-pdf.net/) - Pro: Free. Con: No automatic image rotation. Con: No compression: images don't get compressed leading to a heavy pdf file. Pro: Supports common page formats like A4, letter etc.
+ - [Smallpdf](https://smallpdf.com/) - Con: Not entirely free. Pro: Good user interface. Pro: Can merge and split PDFs. Con: No easy mix of different document types: Cannot easily convert several documents of different types (e.g. an excel document and an image) into a single PDF.
 
 ### PDF Editor
 
