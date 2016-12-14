@@ -34,7 +34,7 @@ To add a Web App:
  *I've tried many video editing web apps but none were reliable. The only exception being the YouTube Video Editor.*
 -->
 
- - [YouTube Editor](http://www.youtube.com/editor) - Clip and merge videos. Con: Very few features. Pro: Reliable: Isn't buggy and doesn't crash.
+ - [YouTube Editor](http://www.youtube.com/editor) - Clip and merge videos. Con: Few features. Pro: Reliable: Isn't buggy and doesn't crash.
  - [Clichamp](https://clipchamp.com/) - Convert and compress videos.
 
 
@@ -70,7 +70,10 @@ To add a Web App:
 
 ### PDF
 
-###### Merge documents into a single PDF
+###### Merge
+
+*Merge documents into a single PDF*
+
  - [online2pdf](https://online2pdf.com/) - Pro: Free. Pro: Supports many document types: Word, Excel, Powerpoint, Publisher, OpenOffice, Images, XPS, PDF, etc. Pro: Resizes documents to cover whole PDF page. Pro: Extensive layout options: outer margin, number of documents in a single PDF page, etc. Pro: Supports common page formats: Like A4, letter etc.  Pro: Secure: Encrypted and secure https connection to online2pdf servers which means that only online2pdf and the user know the content of the files. Pro: compresses documents.
  - [Smallpdf](https://smallpdf.com/) - Con: Not entirely free. Pro: Good user interface. Pro: Can merge and split PDFs. Con: No easy mix of different document types: Cannot easily convert documents of different types (e.g. an excel document and an image) into a single PDF.
  - [jpg2pdf](http://jpg2pdf.com/) - Pro: Free. Con: Keeps image layout: PDF page format can vary. Con: no options at all. Pro: compresses documents.
@@ -139,7 +142,7 @@ To add a Web App:
 
  - [Dark Sky](https://darksky.net/) - Pro: Very good predictions: Does better predictions in Berlin than any other weather forceast I know. (Better than weather.com which is used by Google Search and iPhones). Pro: Precipitation map over several days in the past and future. Pro: Good user interface.
  - [Intellicast](http://www.intellicast.com/) - Pro: Lot's of information. Pro: Precipitation/cloud map.
- - [Weather.com](https://weather.com) - Pro: Hourly / 10 days forecast. Pro: Precipitation & cloud map. Con: Poor user interface.
+ - [Weather.com](https://weather.com) - Pro: Hourly and 10 days forecast. Pro: Precipitation & cloud map. Con: Poor user interface.
  - [Yahoo Weather](https://www.yahoo.com/news/weather/) - Con: Poor prediction: In Berlin, predictions are more often wrong than other forecasts. Pro: current cloud map. Pro: past precipitation map. Pro: sunset/sunrise time. Pro: wind.
 
 <!--- Dismissed
