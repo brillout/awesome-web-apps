@@ -100,6 +100,7 @@ To add a Web App:
 
  - [Writebox](https://write-box.appspot.com/) - Pro: Line/word/chars count. Pro: text saved while typing. Pro: open and edit several texts.
  - [WriterDuert](https://www.writerduet.com) - Collaborative Text Editor.
+ - [Taskade](https://www.taskade.com) - Minimal and sharable task lists editor.
 
 
 ### LaTeX
