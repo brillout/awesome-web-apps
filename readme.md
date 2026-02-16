@@ -107,6 +107,7 @@ To add a Web App:
  - [ShareLaTeX](https://www.sharelatex.com/) - Collaborative editing.
  - [Overleaf](https://www.overleaf.com) - Pro: Feature Rich.
  - [CodeCogs](https://www.codecogs.com/latex/eqneditor.php) - Forumla elements picker. Pro: Only formulas: Only good for forumlas, not for entire documents.
+ - [SpicyChai LaTeX](https://latex.spicychai.com/) - Pro: AI-powered template population. Pro: Real-time PDF preview. Pro: Free anonymous renders without signup.
 
 <!--- Dismissed
  - https://papeeria.com - Alternatives seem to be better.
