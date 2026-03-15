@@ -45,6 +45,7 @@ To add a Web App:
  - [Pixlr](https://pixlr.com/) - Pro: Many features.
  - [Fotor](http://www.fotor.com/) - Pro: Color manipulation.
  - [Aviary](https://www.aviary.com/) - Con: Few features. Pro: Reliable: Isn't buggy and doesn't crash.
+ - [Vizua](https://vizua.io/) - Free browser-based image tools — compress, resize, convert (WebP, AVIF), remove background, upscale, OCR. Pro: 91 tools all client-side: Files never leave the browser. Pro: Free.
 
 <!--- Dissmissed
  - http://photooutcome.com/ - Alternatives seem to be better.
@@ -94,6 +95,7 @@ To add a Web App:
 ###### Miscellaneous
 
  - [Sandwichpdf](http://www.sandwichpdf.com/) - Makes a non searchable PDF searchable using OCR.
+ - [PDFGem](https://pdfgem.io/) - Free browser-based PDF tools — merge, split, compress, OCR, sign, convert. Pro: Client-side via WebAssembly: Files never leave the browser. Pro: Free.
 
 
 ### Text
