@@ -42,6 +42,7 @@ To add a Web App:
 
 ###### Image Editing
 
+ - [Kitmul](https://kitmul.com) - Pro: 100+ free tools (image, PDF, video, text, QR, dev tools). Pro: AI-powered (background removal, image enhancement). Pro: Privacy: all processing runs locally in browser. Pro: No signup required. Pro: Multilingual (EN, ES, FR, DE).
  - [Pixlr](https://pixlr.com/) - Pro: Many features.
  - [Fotor](http://www.fotor.com/) - Pro: Color manipulation.
  - [Aviary](https://www.aviary.com/) - Con: Few features. Pro: Reliable: Isn't buggy and doesn't crash.
