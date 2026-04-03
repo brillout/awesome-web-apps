@@ -190,3 +190,4 @@ To add a Web App:
  - Riot
  - discordapp.com
 -->
+- [TaleForge](https://www.tale-forge.com) - Creative writing platform with book, manga, and screenplay editors. Free, offline PWA.
