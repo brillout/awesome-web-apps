@@ -45,6 +45,7 @@ To add a Web App:
  - [Pixlr](https://pixlr.com/) - Pro: Many features.
  - [Fotor](http://www.fotor.com/) - Pro: Color manipulation.
  - [Aviary](https://www.aviary.com/) - Con: Few features. Pro: Reliable: Isn't buggy and doesn't crash.
+ - [Better Call Saul Card Generator](https://bettercallsaul.store/en/) - Create fan-style business card images with editable text and photo upload. Pro: No signup: Works directly in the browser. Pro: Free PNG download.
 
 <!--- Dissmissed
  - http://photooutcome.com/ - Alternatives seem to be better.
