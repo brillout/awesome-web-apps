@@ -94,6 +94,7 @@ To add a Web App:
 ###### Miscellaneous
 
  - [Sandwichpdf](http://www.sandwichpdf.com/) - Makes a non searchable PDF searchable using OCR.
+ - [PDF Toolbox](https://pdftoolbox-three.vercel.app) - Free online PDF toolkit with merge, split, compress, convert, OCR, e-sign. Privacy-first: all processing happens client-side, no file uploads.
 
 
 ### Text
