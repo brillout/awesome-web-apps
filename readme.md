@@ -16,6 +16,7 @@ To add a Web App:
 - [Document Editing](#document-editing)
     - [Video](#video)
     - [Photo/Image](#photoimage)
+- [FreePNGConvert](https://freepngconvert.com) - Convert WebP to PNG entirely in browser. No uploads, no server processing.
     - [PDF](#pdf)
     - [Text](#text)
     - [LaTeX](#latex)
