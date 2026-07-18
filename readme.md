@@ -36,6 +36,7 @@ To add a Web App:
 
  - [YouTube Editor](http://www.youtube.com/editor) - Clip and merge videos. Con: Few features. Pro: Reliable: Isn't buggy and doesn't crash.
  - [Clichamp](https://clipchamp.com/) - Convert and compress videos.
+ - [cv.cm](https://cv.cm) - Free AI video studio and cloud clipboard in the browser. Pro: Text-to-video and image-to-video with free credits to start. Pro: No install; works in the browser. Con: Advanced AI generation uses paid credits after the free allowance.
 
 
 ### Photo/Image
