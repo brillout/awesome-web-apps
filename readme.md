@@ -36,6 +36,7 @@ To add a Web App:
 
  - [YouTube Editor](http://www.youtube.com/editor) - Clip and merge videos. Con: Few features. Pro: Reliable: Isn't buggy and doesn't crash.
  - [Clichamp](https://clipchamp.com/) - Convert and compress videos.
+ - [Video Size Reducer](https://videosizereducer.org) - Compress MP4 videos locally in your browser with the WebCodecs API; no upload, no account.
 
 
 ### Photo/Image
