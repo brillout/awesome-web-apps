@@ -41,6 +41,7 @@ To add a Web App:
 ### Photo/Image
 
 ###### Image Editing
+ - [FreePNGConvert](https://freepngconvert.com/) - Browser-side WebP to PNG converter. Pro: No upload, privacy-first. Con: Limited format support.
 
  - [Pixlr](https://pixlr.com/) - Pro: Many features.
  - [Fotor](http://www.fotor.com/) - Pro: Color manipulation.
