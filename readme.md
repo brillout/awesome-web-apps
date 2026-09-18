@@ -75,6 +75,7 @@ To add a Web App:
 *Merge documents into a single PDF*
 
  - [online2pdf](https://online2pdf.com/) - Pro: Free. Pro: Supports many document types: Word, Excel, Powerpoint, Publisher, OpenOffice, Images, XPS, PDF, etc. Pro: Resizes documents to cover whole PDF page. Pro: Extensive layout options: outer margin, number of documents in a single PDF page, etc. Pro: Supports common page formats: Like A4, letter etc.  Pro: Secure: Encrypted and secure https connection to online2pdf servers which means that only online2pdf and the user know the content of the files. Pro: compresses documents.
+ - [cv.cm](https://cv.cm/en/merge-pdf/) - Merge, split, and compress PDFs in the browser. Pro: Files never leave the device. Pro: Free, no account. Con: PDF-only merge (not Word/Excel).
  - [Smallpdf](https://smallpdf.com/) - Con: Not entirely free. Pro: Good user interface. Pro: Can merge and split PDFs. Con: No easy mix of different document types: Cannot easily convert documents of different types (e.g. an excel document and an image) into a single PDF.
  - [jpg2pdf](http://jpg2pdf.com/) - Pro: Free. Con: Keeps image layout: PDF page format can vary. Con: no options at all. Pro: compresses documents.
  - [convert-jpg-to-pdf](http://www.convert-jpg-to-pdf.net/) - Pro: Free. Con: No automatic image rotation. Con: No compression: images don't get compressed leading to heavy pdf files. Pro: Supports common page formats: Like A4, letter etc.
