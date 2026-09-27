@@ -94,6 +94,7 @@ To add a Web App:
 ###### Miscellaneous
 
  - [Sandwichpdf](http://www.sandwichpdf.com/) - Makes a non searchable PDF searchable using OCR.
+ - [FileOnTap](https://fileontap.com/) - Browser-local image and PDF converter. Pro: Files stay on-device and no account is required. Con: Focused on image/PDF workflows.
 
 
 ### Text
