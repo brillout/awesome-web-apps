@@ -24,6 +24,7 @@ To add a Web App:
     - [Chat / Video Calls](#chat--video-calls)
 - [Weather](#weather)
 - [Map](#map)
+- [Miscellaneous](#miscellaneous)
 
 
 
@@ -168,6 +169,9 @@ To add a Web App:
 -->
 
 
+# Miscellaneous
+
+ - [RestReserve](https://restreserve.com) - Hotel search and rate comparison web app for travelers. Pro: Free: Search hotels and compare rates in the browser.
 
 
 <!---
