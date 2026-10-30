@@ -22,6 +22,7 @@ To add a Web App:
 - [RSS Reader](#rss-reader)
 - [Communication](#communication)
     - [Chat / Video Calls](#chat--video-calls)
+    - [Private Messaging & Interactive Notes](#private-messaging--interactive-notes)
 - [Weather](#weather)
 - [Map](#map)
 
@@ -131,6 +132,9 @@ To add a Web App:
  - [Circ](https://chrome.google.com/webstore/detail/circ/bebigdkelppomhhjaaianniiifjbgocn) - IRC client. Con: Only for Chrome.
  - [UberConference](https://www.uberconference.com/) - Conference Calls. Pro: Reliable. Con: No video.
  - [Web WeChat](https://web.wechat.com/) - Web based WeChat by Tencent. Con: Requires logging into WeChat on phone and scanning QR code.
+
+### Private Messaging & Interactive Notes
+ - [Heartreveals](https://heartreveals.com) - Interactive digital love letters and private surprise pages for couples. Pro: Timezone-synchronized countdown reveal, wax-sealed animations, memory photo gallery, scratch cards and quizzes. Pro: Encrypted private links & scannable QR codes.
 
 <!--- Dissmissed
  - Helm.is - Encrypted Chat by Peter Sunde of the Pirate Bay. Project is abandoned.
