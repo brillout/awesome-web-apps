@@ -66,6 +66,7 @@ To add a Web App:
  - [Method Draw](http://editor.method.ac/) - SVG editing. Pro: Free. Pro: Many features. Pro: Reliable: Isn't buggy and doesn't crash.
  - [SVG-edit](https://svg-edit.github.io/svgedit/releases/svg-edit-2.8.1/svg-editor.html) - SVG editing. Pro: Free. Pro: Reliable. Pro: many features.
  - [Vector Magic](http://vectormagic.com/home) - Convert bitmap image (.jpg, .png, etc.) to vector graphic (e.g. .svg). Con: Not entirely free: Only three free conversions per account. Pro: works surprisingly very well.
+ - [Pic2Vector](https://pic2vector.com/) - Convert PNG, JPG, and WebP images to SVG in the browser using vtracer and WebAssembly. Pro: Free. Pro: Tracing runs locally in the browser.
 
 
 ### PDF
