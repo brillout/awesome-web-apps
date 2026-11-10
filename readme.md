@@ -45,6 +45,7 @@ To add a Web App:
  - [Pixlr](https://pixlr.com/) - Pro: Many features.
  - [Fotor](http://www.fotor.com/) - Pro: Color manipulation.
  - [Aviary](https://www.aviary.com/) - Con: Few features. Pro: Reliable: Isn't buggy and doesn't crash.
+ - [Minecraft Pixel Art](https://minecraft-pixel-art.com/editor/blueprint) - Convert images to Minecraft block plans. Pro: Free: No account needed for conversion, material lists and PNG export. Con: Minecraft-specific: Java NBT export does not import into Bedrock.
 
 <!--- Dissmissed
  - http://photooutcome.com/ - Alternatives seem to be better.
