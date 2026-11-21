@@ -131,6 +131,7 @@ To add a Web App:
  - [Circ](https://chrome.google.com/webstore/detail/circ/bebigdkelppomhhjaaianniiifjbgocn) - IRC client. Con: Only for Chrome.
  - [UberConference](https://www.uberconference.com/) - Conference Calls. Pro: Reliable. Con: No video.
  - [Web WeChat](https://web.wechat.com/) - Web based WeChat by Tencent. Con: Requires logging into WeChat on phone and scanning QR code.
+ - [Neuro-Kindred](https://neuro-kindred.com) - Free dating and friendship web app for neurodivergent adults — calm and swipe-free, with an AI bio helper, interest "pebbles" instead of likes, games, and watch-together rooms. Pro: Free.
 
 <!--- Dissmissed
  - Helm.is - Encrypted Chat by Peter Sunde of the Pirate Bay. Project is abandoned.
