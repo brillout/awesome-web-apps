@@ -45,6 +45,7 @@ To add a Web App:
  - [Pixlr](https://pixlr.com/) - Pro: Many features.
  - [Fotor](http://www.fotor.com/) - Pro: Color manipulation.
  - [Aviary](https://www.aviary.com/) - Con: Few features. Pro: Reliable: Isn't buggy and doesn't crash.
+ - [Crosy](https://crosy.app/) - Browser cross-stitch photo and chart editor. Pro: Free conversion, digital Stitches preview, stitch editing, and progress tracking without an account. Con: Full pattern unlock requires an account and 30 credits, with optional credit packs and Pro.
 
 <!--- Dissmissed
  - http://photooutcome.com/ - Alternatives seem to be better.
