@@ -160,6 +160,7 @@ To add a Web App:
  - [Here Maps](https://maps.here.com) - Pro: Lot's of features.
  - [Bing Maps](https://www.bing.com/mapspreview) - Pro: Lot's of features. Con: user interface is often annoying.
  - [Waze](https://www.waze.com) - Pro: Traffic information provided by peer users. Con: No public transportation. Pro: Fast user interface.
+ - [StagePeek](https://stagepeek.live/) - Interactive 2D concert venue seating maps and 3D stage sightline simulator covering 201 global venues with 1x–10x zoom. Pro: Free guest preview with no login required. Con: 3D views are geometric simulations rather than live photos.
 
 <!--- Dismissed
  - [Yandex Maps](https://yandex.com/maps/) - Poor autocomplete.
